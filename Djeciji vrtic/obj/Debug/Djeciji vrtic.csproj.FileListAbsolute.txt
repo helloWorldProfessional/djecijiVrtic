@@ -1,0 +1,54 @@
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\bin\Debug\Djeciji vrtic.exe.config
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\bin\Debug\Djeciji vrtic.exe
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\bin\Debug\Djeciji vrtic.pdb
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.exe
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.pdb
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Djeciji_vrtic.resources
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Uplate.resources
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Zaposleni.resources
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Grupe.resources
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\bin\Debug\Dapper.dll
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\bin\Debug\Dapper.xml
+C:\Users\Korisnik\source\repos\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.PolaznikModel.resources
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csprojAssemblyReference.cache
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Djeciji_vrtic.resources
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Grupe.resources
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.PolaznikModel.resources
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Properties.Resources.resources
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Uplate.resources
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Zaposleni.resources
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csproj.GenerateResource.cache
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csproj.CoreCompileInputs.cache
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.exe
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.pdb
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\bin\Debug\Djeciji vrtic.exe.config
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\bin\Debug\Djeciji vrtic.exe
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\bin\Debug\Djeciji vrtic.pdb
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\bin\Debug\Dapper.dll
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\bin\Debug\Dapper.xml
+C:\Users\sc21l\Desktop\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csproj.CopyComplete
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\bin\Debug\Djeciji vrtic.exe.config
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\bin\Debug\Djeciji vrtic.exe
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\bin\Debug\Djeciji vrtic.pdb
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\bin\Debug\Dapper.dll
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\bin\Debug\Dapper.xml
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Djeciji_vrtic.resources
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Grupe.resources
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.PolaznikModel.resources
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Properties.Resources.resources
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Uplate.resources
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji_vrtic.Zaposleni.resources
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csproj.GenerateResource.cache
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csproj.CoreCompileInputs.cache
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csproj.CopyComplete
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.exe
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.pdb
+C:\Users\sc21l\Desktop\4 godina\Djeciji vrtic\Djeciji vrtic\obj\Debug\Djeciji vrtic.csprojAssemblyReference.cache
